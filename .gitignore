@@ -1,0 +1,13 @@
+*.class
+*.log
+.bluej/
+*.cmt
+.CLKDATA
+.target/
+bin/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+target/
