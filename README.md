@@ -1,5 +1,5 @@
 
-java-coding-practices/
+java-coding-practices/ 
 │
 ├── 01-core-fundamentals/          
 ├── 02-exception-handling/          
